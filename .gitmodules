@@ -1,0 +1,7 @@
+[submodule "backendapp"]
+    path = backendapp
+    url = https://github.com/kl2300030022/backendapp.git
+
+[submodule "frontendapp/scmproject"]
+    path = frontendapp/scmproject
+    url = https://github.com/kl2300030022/scmproject.git
